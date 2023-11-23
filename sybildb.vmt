@@ -1,0 +1,13 @@
+VertexLitGeneric	
+{
+	$basetexture "models\losos\pseudoregalia\sybil\sybildb"
+	$model 1
+	$nocull 1
+	$alphatest 1
+	"$phong" "0.4"
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+
+	"$lightwarptexture" "models\losos\pseudoregalia\sybil\celshade1"
+	"$halflambert" 1
+}
